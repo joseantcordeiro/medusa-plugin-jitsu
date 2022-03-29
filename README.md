@@ -5,7 +5,7 @@ Medusa commerce Jitsu data ingestion
 
 Modern e-commerce businesses have to integrate with a wide spectrum of tools from marketing and personalization to analytics and business intelligence. Integrations to these tools quickly become hard to maintain and new integrations become overly complex to implement putting a stretch on an e-commerce organization's resources.
 
-The CDP (The Open Source Segment Alternative) [Segment](https://segment.com/) solves this problem by allowing users to instantly integrate with +100 tools through a single unified API.
+The CDP (The Open Source Segment Alternative) [Jitsu](https://jitsu.com/) solves this problem by allowing users to instantly integrate with +100 tools through a single unified API.
 
 Jitsu is based official plugin `medusa-plugin-segment` that instantly gives you access to all Segment integrations and comes preconfigured with powerful server-side tracking
 
